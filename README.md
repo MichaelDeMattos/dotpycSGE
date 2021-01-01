@@ -34,7 +34,7 @@ Bem-Vindo a sua API DotPycSGE
 
 6° Realize o login na aplicação conforme os dados informados:
 
-img src="https://i.imgur.com/CXAon89.png" class="img-fluid" alt="...">
+<img src="https://i.imgur.com/CXAon89.png" class="img-fluid" alt="...">
 
 7° Agora é só navegar nas opções da sua API
 
