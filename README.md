@@ -33,12 +33,17 @@ Bem-Vindo a sua API DotPycSGE
                     );
 
 6° Realize o login na aplicação conforme os dados informados:
+
 img src="https://i.imgur.com/CXAon89.png" class="img-fluid" alt="...">
 
 7° Agora é só navegar nas opções da sua API
+
 <img src="https://i.imgur.com/cN32c4e.png" class="img-fluid" alt="...">
 
-Contate o desenvolvedor
+Contate o desenvolvedor:
+
 Telegram +55 017 99174-0025
+
 Whatsapp +55 017 99174-0025
+
 E-mail chelmto3000@gmail.com
