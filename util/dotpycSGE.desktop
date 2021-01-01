@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=DotPyc SGQ
+Type=Application
+Exec=python3 /home/michael/dotpycSGE/Login.pyc
+Icon=system-run
+Name[pt_BR]=DotPyc SGQ
+Author=Michael de Mattos
+
